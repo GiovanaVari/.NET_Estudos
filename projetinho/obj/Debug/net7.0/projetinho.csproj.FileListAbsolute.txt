@@ -1,0 +1,15 @@
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\bin\Debug\net7.0\projetinho.exe
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\bin\Debug\net7.0\projetinho.deps.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\bin\Debug\net7.0\projetinho.runtimeconfig.json
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\bin\Debug\net7.0\projetinho.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\bin\Debug\net7.0\projetinho.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.csproj.AssemblyReference.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.AssemblyInfoInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.AssemblyInfo.cs
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.csproj.CoreCompileInputs.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\refint\projetinho.dll
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.pdb
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\projetinho.genruntimeconfig.cache
+C:\Users\Giovana Vari\Documents\DIO\.NET\projetinho\obj\Debug\net7.0\ref\projetinho.dll
